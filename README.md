@@ -9,7 +9,6 @@ curl -L https://raw.githubusercontent.com/zhaojiyu/lpm/main/lumiii.sh | bash
 
 curl -L https://luminati.io/static/lpm/luminati-proxy-latest-setup.sh | bash
 
-安装完成后，执行 luminati 即可启动控制台。
 
 3、下载并执行启动文件。
 
