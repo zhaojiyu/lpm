@@ -1,12 +1,16 @@
 # lpm 说明：
 1、安装环境。
+
 curl -L https://raw.githubusercontent.com/zhaojiyu/lpm/main/lumiii.sh | bash
 
 安装完成后。 执行  node - v  确认版本是否为 v12.18.3  否则执行 source /etc/profile 后再次查看。
 
-2、 安装LPM
+2、 安装LPM。
+
 curl -L https://luminati.io/static/lpm/luminati-proxy-latest-setup.sh | bash
+
 安装完成后，执行 luminati 即可启动控制台。
 
 3、下载并执行启动文件。
+
 wget https://raw.githubusercontent.com/zhaojiyu/lpm/main/lumrestart2.sh && sh -x lumrestart2.sh
