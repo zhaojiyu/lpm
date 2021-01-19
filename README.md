@@ -13,4 +13,8 @@ curl -L https://luminati.io/static/lpm/luminati-proxy-latest-setup.sh | bash
 
 3、下载并执行启动文件。
 
-wget https://raw.githubusercontent.com/zhaojiyu/lpm/main/lumrestart2.sh && sh -x lumrestart2.sh
+wget https://raw.githubusercontent.com/zhaojiyu/lpm/main/lumrestart2.sh
+
+执行脚本：
+
+sh lumrestart2.sh
