@@ -7,7 +7,7 @@ curl -L https://raw.githubusercontent.com/zhaojiyu/lpm/main/lumiii.sh | bash
 
 2、 安装LPM。
 
-curl -L https://github.com/zhaojiyu/lpm/blob/main/luminati123.sh | bash
+curl -L https://raw.githubusercontent.com/zhaojiyu/lpm/main/luminati123.sh | bash
 
 3、下载并执行启动文件。
 
