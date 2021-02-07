@@ -20,4 +20,6 @@ iptables -F
 iptables -P INPUT ACCEPT
 iptables -L -n
 lpm_whitelist_ip 47.75.49.75
+lpm_whitelist_ip 121.196.8.110
+lpm_whitelist_ip 222.174.185.118
 echo "Luminati Start OK..."
