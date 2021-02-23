@@ -16,3 +16,7 @@ wget https://raw.githubusercontent.com/zhaojiyu/lpm/main/lumrestart2.sh
 执行脚本：
 
 sh lumrestart2.sh
+
+更新执行：
+
+rm -rf *.sh && wget https://raw.githubusercontent.com/zhaojiyu/lpm/main/lumrestart2.sh && sh lumrestart2.sh
