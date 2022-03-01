@@ -1,4 +1,6 @@
 #!/bin/sh
+rm -rf *.log
+chmod +x gost
 lum_id=`ps -ef|grep gost|grep -v grep|awk '{print $2}'`
 if  [ ! -n "$lum_id" ] ; then
     echo "will start..."
